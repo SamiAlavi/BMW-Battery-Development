@@ -1,0 +1,6 @@
+[submodule "BMW-Battery-Development-Frontend"]
+	path = BMW-Battery-Development-Frontend
+	url = https://github.com/SamiAlavi/BMW-Battery-Development-Frontend
+[submodule "BMW-Battery-Development-Backend"]
+	path = BMW-Battery-Development-Backend
+	url = https://github.com/SamiAlavi/BMW-Battery-Development-Backend
